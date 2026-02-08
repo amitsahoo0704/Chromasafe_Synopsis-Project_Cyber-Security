@@ -37,7 +37,7 @@ ChromaSafe/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ChromaSafe.git
+   git clone https://github.com/amitsahoo0704/ChromaSafe.git
    cd ChromaSafe
    ```
 
